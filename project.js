@@ -3,15 +3,6 @@ let userseq =[];
 let userScore = 0; 
 let highScore = 0;
 
-// if (userScore > highScore) {
-//     highScore = userScore;
-//     localStorage.setItem("highScore", highScore); 
-// }
-// document.addEventListener("DOMContentLoaded", function () {
-//     document.getElementById("scoreDisplay").innerText = `Score: ${userScore}`;
-// });
-
-
 let btns =["red" ,"yellow" ,"green" ,"purple"];
 
 let started =false;
